@@ -45,8 +45,8 @@ let g:airline#themes#ayu_custom#palette.replace = {
             \}
 
 let g:airline#themes#ayu_custom#palette.inactive = {
-            \ 'airline_a': ['#14191F', '#B8CC52', 255, 0],
-            \ 'airline_b': ['#E6E1CF', '#3E4B59', 255, 0],
+            \ 'airline_a': ['#B8B4A5', '#232838', 255, 0],
+            \ 'airline_b': ['#B8B4A5', '#232838', 255, 0],
             \ 'airline_c': ['#B8B4A5', '#232838', 255, 0],
             \ 'airline_x': ['#D3D5D7', '#232838', 255, 0],
             \ 'airline_y': ['#D3D5D7', '#232838', 255, 0],
